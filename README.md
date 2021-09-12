@@ -7,7 +7,7 @@ https://discord.gg/tXrB68wDHt (European Community)<br></p>
   <br>
     <img src="https://github-readme-stats.vercel.app/api?username=risenjs"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=risenjs"> 
-(https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github.com/risenjs/github-readme-stats">
   <p>Developed <a href="https://top.gg/bot/877911101264785478">Sync</a>  
   <h1>Contact</h1>
   <a href="https://discord.com/users/850128679819804674" target="_blank"><img src="https://shields.io/badge/DİSCORD-111111.svg?&style=for-the-badge&logo=discord"></a>
