@@ -3,6 +3,7 @@
   Hi, i am Risen
   16 years old, Discord Bot Developer
   
+  \n
   <p>Developer on,<br>
 https://discord.gg/JxW9meXTjV (Sync Development)<br>
 https://discord.gg/starlightnetwork (StarLight Network)<br>
