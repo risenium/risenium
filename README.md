@@ -9,7 +9,7 @@ https://discord.gg/tXrB68wDHt (European Community)<br></p>
   
   <p>Developed <a href="https://top.gg/bot/877911101264785478">Sync</a>
         <br><br>
-    <p>![Risen's github stats](https://github-readme-stats.vercel.app/api?username=risenjs)
+    ![Risen's github stats](https://github-readme-stats.vercel.app/api?username=risenjs)</a>
 
   <h1>Contact</h1>
   <a href="https://discord.com/users/850128679819804674" target="_blank"><img src="https://shields.io/badge/DİSCORD-111111.svg?&style=for-the-badge&logo=discord"></a>
