@@ -6,7 +6,7 @@ https://discord.gg/starlightnetwork (StarLight Network)<br>
 https://discord.gg/tXrB68wDHt (European Community)<br></p>
   <br>
     <img src="https://github-readme-stats.vercel.app/api?username=risenjs"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=risenjs"> 
 (https://github.com/anuraghazra/github-readme-stats)
   <p>Developed <a href="https://top.gg/bot/877911101264785478">Sync</a>  
   <h1>Contact</h1>
