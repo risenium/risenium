@@ -5,8 +5,6 @@ https://discord.gg/JxW9meXTjV (Sync Development)<br>
 https://discord.gg/starlightnetwork (StarLight Network)<br>
 https://discord.gg/tXrB68wDHt (European Community)<br></p>
   <br>
-  
-  
   <p>Developed <a href="https://top.gg/bot/877911101264785478">Sync</a>
 
     ![Risen's github stats](https://github-readme-stats.vercel.app/api?username=risenjs)
