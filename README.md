@@ -7,7 +7,7 @@ https://discord.gg/tXrB68wDHt (European Community)<br></p>
   <br>
   <p>Developed <a href="https://top.gg/bot/877911101264785478">Sync</a>
 
-    ![Risen's github stats](https://github-readme-stats.vercel.app/api?username=risenjs)
+    <img src="https://github-readme-stats.vercel.app/api?username=risenjs">
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=risenjs&layout=compact)](https://github.com/risenjs/github-readme-stats)
 
   <h1>Contact</h1>
