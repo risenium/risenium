@@ -8,8 +8,9 @@ https://discord.gg/tXrB68wDHt (European Community)<br></p>
   <p>Developed <a href="https://top.gg/bot/877911101264785478">Sync</a>
 
     <img src="https://github-readme-stats.vercel.app/api?username=risenjs">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=risenjs&layout=compact)](https://github.com/risenjs/github-readme-stats)
 
+    
+    
   <h1>Contact</h1>
   <a href="https://discord.com/users/850128679819804674" target="_blank"><img src="https://shields.io/badge/DİSCORD-111111.svg?&style=for-the-badge&logo=discord"></a>
   <a href="https://www.instagram.com/risenizm/" target="_blank"><img src="https://shields.io/badge/Instagram-111111.svg?&style=for-the-badge&logo=instagram"></a>
