@@ -9,8 +9,8 @@ https://discord.gg/tXrB68wDHt (European Community)<br></p>
   
   <p>Developed <a href="https://top.gg/bot/877911101264785478">Sync</a>
   <br><br>
-  <h1>İletişim</h1>
+  <h1>Contact</h1>
   <a href="https://discord.com/users/850128679819804674" target="_blank"><img src="https://shields.io/badge/Risen-111111.svg?&style=for-the-badge&logo=discord"></a>
-  <a href="https://discord.com/users/850128679819804674" target="_blank"><img src="https://shields.io/badge/Instagram-111111.svg?&style=for-the-badge&logo=instagram"></a>
+  <a href="https://www.instagram.com/risenizm/" target="_blank"><img src="https://shields.io/badge/Instagram-111111.svg?&style=for-the-badge&logo=instagram"></a>
   <a href="https://github.com/syncjs" target="_blank"><img src="https://shields.io/badge/risenjs-111111.svg?&style=for-the-badge&logo=github"></a>
 </div>
