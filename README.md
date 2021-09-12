@@ -1,7 +1,7 @@
 <div align="center">
   <h1>About Me!</h1>
-  Hi, i am Risen<br>
-  16 years old, Discord Bıt Developer<br>
+  <p>Hi, i am Risen<br>
+  16 years old, Discord Bot Developer<br>
   
   <p>Developer on,<br>
 https://discord.gg/JxW9meXTjV (Sync Development)<br>
