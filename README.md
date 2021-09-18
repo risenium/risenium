@@ -3,11 +3,6 @@
 Hi, i am Risen<br>
 16 years old, Discord Bot Developer<br><br>
   
-  <p>Developer on,<br>
-https://discord.gg/JxW9meXTjV (Sync Development)<br>
-https://discord.gg/starlightnetwork (StarLight Network)<br>
-https://discord.gg/tXrB68wDHt (European Community)<br></p>
-  <br>
     <img src="https://github-readme-stats.vercel.app/api?username=risenjs"> 
 
   <h1>Contact</h1>
