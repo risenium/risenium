@@ -2,8 +2,8 @@
   <h1>About Me!</h1>
 Hi, i am Risen<br>
 16 years old, Discord Bot Developer<br><br>
-  
- 
+Soon new projects...
+
   <br>
     <img src="https://github-readme-stats.vercel.app/api?username=risenjs"> 
 
