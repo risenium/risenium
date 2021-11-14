@@ -13,6 +13,6 @@ Soon new projects...
   <a href="https://github.com/risenjs" target="_blank"><img src="https://shields.io/badge/GITHUB-111111.svg?&style=for-the-badge&logo=github"></a>
   
   <h1> My Personal Server <h1> 
-https://discord.gg/n5S3vy9DyV
+https://discord.gg/n5S3vy9DyV<br><br>
 
 </div>
