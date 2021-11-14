@@ -14,7 +14,4 @@ Soon new projects...
   <a href="https://discord.com/users/850128679819804674" target="_blank"><img src="https://shields.io/badge/DISCORD-111111.svg?&style=for-the-badge&logo=discord"></a>
   <a href="https://www.instagram.com/yusuffzm/" target="_blank"><img src="https://shields.io/badge/Instagram-111111.svg?&style=for-the-badge&logo=instagram"></a>
   <a href="https://github.com/risenjs" target="_blank"><img src="https://shields.io/badge/GITHUB-111111.svg?&style=for-the-badge&logo=github"></a>
-  
-   <iframe src="https://discord.com/widget?id=902266510276427856&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-
 </div>
