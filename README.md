@@ -1,10 +1,10 @@
 <div align="center">
   <h1>About Me!</h1>
 Hi, i am Risen<br>
-16 years old, Discord Bot Developer<br><br>
+16 years old, Discord Bot Developer<br><br><br><br>
 
 My Personal Server 
-https://discord.gg/n5S3vy9DyV
+https://discord.gg/n5S3vy9DyV<br>
 Soon new projects...
 
   <br>
