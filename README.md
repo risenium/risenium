@@ -5,7 +5,6 @@ Hi, i am Risen<br>
 
 My Personal Server 
 https://discord.gg/n5S3vy9DyV
-  
 Soon new projects...
 
   <br>
