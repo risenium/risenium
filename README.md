@@ -4,7 +4,7 @@ Hi, i am Risen<br>
 16 years old, Discord Bot Developer<br><br>
 
 My Personal Server 
-https://discord.gg/n5S3vy9DyV<br><br>
+https://discord.gg/n5S3vy9DyV
   
 Soon new projects...
 
