@@ -8,7 +8,7 @@ https://discord.gg/risenium<br>
 Soon new projects...
 
   <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=risenjs"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=risenium"> 
   
   <h1>Contact</h1>
   <a href="https://discord.com/users/850128679819804674" target="_blank"><img src="https://shields.io/badge/DISCORD-111111.svg?&style=for-the-badge&logo=discord"></a>
